@@ -12,7 +12,7 @@
       {
         "name": "	101 TV1",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
-       	"is_live": "true"
+       	"is_live": "true",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
