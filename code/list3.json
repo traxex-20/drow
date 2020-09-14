@@ -576,7 +576,7 @@
     "samples": [
      {
         "name": "801 UNIFI VOD",
-		"logo_uri": "",
+		"logo_uri": "htttp://",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227738/3221227738.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
