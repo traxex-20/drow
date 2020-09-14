@@ -196,7 +196,7 @@
       },
       {
         "name": "332 UTV MOVIES HD",
-		"logo_uri": "",
+		"logo_uri": "http://",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227594/3221227594.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
@@ -236,21 +236,21 @@
     "samples": [
       {
         "name": "401 FOX MOVIES",
-		"logo_uri": "",
+		"logo_uri": "http://",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "402 FOX ACTION MOVIES",
-		"logo_uri": "",
+		"logo_uri": "http://",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "403 FOX FAMILY MOVIES",
-		"logo_uri": "",
+		"logo_uri": "http://",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
@@ -278,21 +278,21 @@
       },
       {
         "name": "453 FOX",
-		"logo_uri": "",
+		"logo_uri": "http://",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "454 FX",
-		"logo_uri": "",
+		"logo_uri": "http://",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "455 FOX LIFE",
-		"logo_uri": "",
+		"logo_uri": "http://",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
@@ -339,14 +339,14 @@
       },
 	  {
         "name": "508 NATTIONAL GEOGRAPHIC",
-		"logo_uri": "",
+		"logo_uri": "http://",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "509 NAT GEO WILD",
-		"logo_uri": "",
+		"logo_uri": "http://",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
@@ -428,7 +428,7 @@
       },
       {
         "name": "562 BABYTV",
-		"logo_uri": "",
+		"logo_uri": "http://",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
@@ -454,7 +454,7 @@
       },
       {
         "name": "603 SKY NEWS",
-		"logo_uri": "",
+		"logo_uri": "http://",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227718/3221227718.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
@@ -489,7 +489,7 @@
       },
       {
         "name": "641 ABC AUSTRALIA",
-		"logo_uri": "",
+		"logo_uri": "http://",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
