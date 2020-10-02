@@ -643,6 +643,83 @@
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJhZGhvY19UTGl2ZTAyX2Rhc2hfd2ViIiwiZmlsZXMiOiIyODA4NDQ5IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=RW3PNMNY89cAbise3cO0RNxzC84%3D&"
       }
     ]
-  }	
+  },
+	{
+    "name": "UNITV LOKAL",
+    "samples": [
+     {
+        "name": "TV1",
+				"logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tvTV1logo-New.jpg",
+        "uri": "https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd",
+        "referer": "https://myklik.rtm.gov.my/"
+      },
+      {
+        "name": "TV2",
+				"logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tvTV2logo.jpg",
+        "uri": "https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd",
+        "referer": "https://myklik.rtm.gov.my/"
+      },
+      {
+        "name": "TV3",
+				"logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",
+        "uri": "https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8?sec=rDula8zIgjPdGJpc650XaGrFh_pJg67vstlIjc6pv68ktis6CVdoBsNJ6NOmAk0FAsNBS_DLAlOzou4rvp0trg",
+        "referer": "https://www.dailymotion.com/"
+      },
+      {
+        "name": "Drama Sangat",
+				"logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png",
+        "uri": "https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTDm4BnG0dDwokdFqtFY3nggILwDyEvgcsUoWXoYmvnwBLlpysbbQrZgRQFGlpcWxGg",
+        "referer": "https://www.dailymotion.com/"
+      },
+			{
+        "name": "NTV7",
+				"logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png",
+        "uri": "https://www.dailymotion.com/cdn/live/video/x6qp6ou.m3u8?sec=O92yQs7wUNG3lxJjphgbq--d80sEOvZXsilnNRxCdOEQkEqKPkM2GNEprpPP4yXu3Q36TOi5RtueL7S3LLzgPg",
+        "referer": "https://www.dailymotion.com/"
+      },
+      {
+        "name": "8TV",
+				"logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png",
+        "uri": "https://www.dailymotion.com/cdn/live/video/x6qud17.m3u8?sec=Bri35_Jw3Y9HNm0uYb4IxvxDzvhpZgxaAum7tW2kAWQSYKRFJXKjLUA3Y-Hc4EXUHdQ_VYwhlBecoTxdqaxxgw",
+        "referer": "https://www.dailymotion.com/"
+      },
+      {
+        "name": "TV9",
+				"logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png",
+        "uri": "https://www.dailymotion.com/cdn/live/video/x6qqja6.m3u8?sec=ZwFQ_HzgvMTsAdEA5__luNAx4zTlu86ztHJAdEghwZG3TyAPIIc7HUDANUcPOdN3CCu3t2cZFP6PP1_yNIgVGQ",
+        "referer": "https://www.dailymotion.com/"
+      },
+      {
+        "name": "TV Okey",
+				"logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tvTVOKEYlogo.jpg",
+        "uri": "https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd",
+        "referer": "https://myklik.rtm.gov.my/"
+      },
+	    {
+        "name": "RTM Sports",
+				"logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Logo%20-%20RTM%20Sports%20Mac%2020%20-%20WhiteBG.png".
+        "uri": "https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd",
+        "referer": "https://myklik.rtm.gov.my/"
+      },
+      {
+        "name": "Go Shop",
+				"logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_GOSHOP.m3u8",
+        "referer": "https://www.goshop.com.my/"
+      },
+      {
+        "name": "Bernama",
+				"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd",
+        "referer": "http"
+      },
+      {
+        "name": "Berita RTM",
+				"logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Berita-NEW.jpg",
+        "uri": "https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd",
+        "referer": "https://myklik.rtm.gov.my/"
+      }
+		]
+	}	
 ]
 
