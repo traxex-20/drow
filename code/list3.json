@@ -4,28 +4,28 @@
     "samples": [
      {
         "name": "100 UniTV",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/general/hypptv-logo.png",
+				"logo_uri": "https://www.tm.com.my/tv/assets/imgs/general/hypptv-logo.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "101 TV1",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",
+				"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "102 TV2",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
+				"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "103 TV3",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv3.png",
+				"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv3.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
@@ -644,7 +644,7 @@
       }
     ]
   },
-	{
+  {
     "name": "UNITV LOKAL",
     "samples": [
      {
@@ -671,7 +671,7 @@
         "uri": "https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTDm4BnG0dDwokdFqtFY3nggILwDyEvgcsUoWXoYmvnwBLlpysbbQrZgRQFGlpcWxGg",
         "referer": "https://www.dailymotion.com/"
       },
-			{
+      {
         "name": "NTV7",
 				"logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png",
         "uri": "https://www.dailymotion.com/cdn/live/video/x6qp6ou.m3u8?sec=O92yQs7wUNG3lxJjphgbq--d80sEOvZXsilnNRxCdOEQkEqKPkM2GNEprpPP4yXu3Q36TOi5RtueL7S3LLzgPg",
@@ -695,9 +695,9 @@
         "uri": "https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd",
         "referer": "https://myklik.rtm.gov.my/"
       },
-	    {
+      {
         "name": "RTM Sports",
-				"logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Logo%20-%20RTM%20Sports%20Mac%2020%20-%20WhiteBG.png".
+				"logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Logo%20-%20RTM%20Sports%20Mac%2020%20-%20WhiteBG.png",
         "uri": "https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd",
         "referer": "https://myklik.rtm.gov.my/"
       },
@@ -709,9 +709,9 @@
       },
       {
         "name": "Bernama",
-				"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd",
-        "referer": "http"
+				"https://www.bernama.com/tv/img/logotv_05.png",
+        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1601658027/ei/Swh3X52hN9e_z7sPzfeguA8/ip/35.247.134.71/id/fbk5VQoHV0M.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-npoeener.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/10300/mh/78/mm/44/mn/sn-npoeener/ms/lva/mv/m/mvi/2/pl/20/dover/11/keepalive/yes/fexp/23915654/mt/1601636304/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgUudUkh0QDzq7AhQjweq0TvhPg1MtvIPefTcQcaUXeJcCIB3J5lpy32-VGOYHrhVAVpmBIZph-swC1vN0lqX6HFmI/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgVQNGqvOT3hXwP_cRJ71VsRx-S5un-fqZhh6C787OP4YCIQC1BGJeg_oFjugYXJs-NGvkm0m9GBDD3zpL1GAYUTkAUw%3D%3D/playlist/index.m3u8",
+        "referer": "https://www.youtube.com/"
       },
       {
         "name": "Berita RTM",
