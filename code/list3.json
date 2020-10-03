@@ -662,31 +662,31 @@
       {
         "name": "TV3",
         "logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8?sec=rDula8zIgjPdGJpc650XaGrFh_pJg67vstlIjc6pv68ktis6CVdoBsNJ6NOmAk0FAsNBS_DLAlOzou4rvp0trg",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8",
         "referer": "https://www.dailymotion.com/"
       },
       {
         "name": "Drama Sangat",
         "logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTDm4BnG0dDwokdFqtFY3nggILwDyEvgcsUoWXoYmvnwBLlpysbbQrZgRQFGlpcWxGg",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8",
         "referer": "https://www.dailymotion.com/"
       },
       {
         "name": "NTV7",
         "logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x6qp6ou.m3u8?sec=O92yQs7wUNG3lxJjphgbq--d80sEOvZXsilnNRxCdOEQkEqKPkM2GNEprpPP4yXu3Q36TOi5RtueL7S3LLzgPg",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8",
         "referer": "https://www.dailymotion.com/"
       },
       {
         "name": "8TV",
         "logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x6qud17.m3u8?sec=Bri35_Jw3Y9HNm0uYb4IxvxDzvhpZgxaAum7tW2kAWQSYKRFJXKjLUA3Y-Hc4EXUHdQ_VYwhlBecoTxdqaxxgw",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8",
         "referer": "https://www.dailymotion.com/"
       },
       {
         "name": "TV9",
         "logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x6qqja6.m3u8?sec=ZwFQ_HzgvMTsAdEA5__luNAx4zTlu86ztHJAdEghwZG3TyAPIIc7HUDANUcPOdN3CCu3t2cZFP6PP1_yNIgVGQ",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8",
         "referer": "https://www.dailymotion.com/"
       },
       {
