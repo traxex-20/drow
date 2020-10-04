@@ -11,7 +11,7 @@ The schema is as follows, where [O] indicates an optional attribute.
         "logo_uri": "[O] URI of sample logo",
         "uri": "The URI of the sample",
         "extension": "[O] Sample type hint. Values: mpd, ism, m3u8",
-        "referer": "[O] Add referer header if required"
+        "referer": "[O] Add referer header if required",
         "drm_scheme": "[O] Drm scheme if protected. Values: widevine, playready, clearkey",
         "drm_license_uri": "[O] URI of the license server if protected",
         "drm_force_default_license_uri": "[O] Whether to force use of "drm_license_uri" for key requests that include their own license URI",
