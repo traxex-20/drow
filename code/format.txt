@@ -13,15 +13,14 @@ The schema is as follows, where [O] indicates an optional attribute.
         "extension": "[O] Sample type hint. Values: mpd, ism, m3u8",
         "referer": "[O] Add referer header if required",
         "drm_scheme": "[O] Drm scheme if protected. Values: widevine, playready, clearkey",
-        "drm_license_uri": "[O] URI of the license server if protected",
-        "drm_force_default_license_uri": "[O] Whether to force use of "drm_license_uri" for key requests that include their own license URI",
+        "drm_license_url": "[O] URL of the license server if protected",
         "drm_key_request_properties": "[O] Key request headers if protected",
-        "drm_session_for_clear_content": "[O] Whether to attach a DRM session to clear video and audio tracks"
         "drm_multi_session": "[O] Enables key rotation if protected",
+        "ad_tag_uri": "[O] The URI of an ad tag, if using the IMA extension"
+        "spherical_stereo_mode": "[O] Enables spherical view. Values: mono, top_bottom, left_right",
         "subtitle_uri": "[O] The URI of a subtitle sidecar file",
         "subtitle_mime_type": "[O] The MIME type of subtitle_uri (required if subtitle_uri is set)",
-        "subtitle_language": "[O] The BCP47 language code of the subtitle file (ignored if subtitle_uri is not set)",
-        "ad_tag_uri": "[O] The URI of an ad tag to load via the IMA extension"
+        "subtitle_language": "[O] The BCP47 language code of the subtitle file (ignored if subtitle_uri is not set)"
       },
       ...etc
     ]
