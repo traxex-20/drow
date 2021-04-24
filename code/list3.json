@@ -12,14 +12,14 @@
       {
         "name": "101 TV1",
         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227471/3221227471.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzllZGI3M2MtMzI0MC0zMjZkLWI0YzYtMzUxNGYxNmIxMzIy"
       },
       {
         "name": "102 TV2",
         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227490/3221227490.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzllZGI3M2MtMzI0MC0zMjZkLWI0YzYtMzUxNGYxNmIxMzIy"
       },
