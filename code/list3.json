@@ -650,7 +650,7 @@
       {
         "name": "TV1",
         "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tvTV1logo-New.jpg",
-        "uri": "https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd",
+        "uri": "https://rtmlive01.secureswiftcontent.com/rtm/live01_manifest.m3u8",
         "referer": "https://myklik.rtm.gov.my/"
       },
       {
