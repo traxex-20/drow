@@ -1,0 +1,26 @@
+[
+    {
+        "name": "ntv7",
+        "address": "tvbus://5kn41Lpr589iZMwYw2rT1qvUXoNSLqvgYBv135SU5ALatmAmvMNyE3QwPnbkW",
+        "from": "UN",
+        "type": "public"
+    },
+    {
+        "name": "WARNA",
+        "address": "tvbus://5q4bzjhYKAq9GRawak3aKYiP3LywSHby3RXqtrCLNaafbFVoXWzeZ3naQs2E1",
+        "from": "UN",
+        "type": "public"
+    },
+    {
+        "name": "TV9",
+        "address": "tvbus://5PCJJvZHvMdmiRbiWPcFeVW3k2Cf96gXsG3wL8GogyHfnchFeD3UHRZpmHmsk",
+        "from": "EU",
+        "type": "public"
+    },
+    {
+        "name": "ria",
+        "address": "tvbus://6Je2dBf75zm7QGGuVttkfxcbN5XuJUnio6QmP6XEPDKkVMqCckDSg8DujTFXR",
+        "from": "EU",
+        "type": "public"
+    }
+]
