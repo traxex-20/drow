@@ -7,105 +7,105 @@
         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports1-Olympic.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzI0OWM1NTAtOWY5Zi0zNGM5LTk5NDMtMmRmNzQ0YzBmMDAx"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
       {
         "name": "UNIFISPORTS2",
         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports2-Olympic.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzI0OWM1NTAtOWY5Zi0zNGM5LTk5NDMtMmRmNzQ0YzBmMDAx"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
       {
         "name": "UNIFISPORTS3",
         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports3-Olympic.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzI0OWM1NTAtOWY5Zi0zNGM5LTk5NDMtMmRmNzQ0YzBmMDAx"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
       {
         "name": "UNIFISPORTS4",
         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports4-Olympic.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzI0OWM1NTAtOWY5Zi0zNGM5LTk5NDMtMmRmNzQ0YzBmMDAx"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
       {
         "name": "UNIFISPORTS5",
         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports5-Olympic.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzI0OWM1NTAtOWY5Zi0zNGM5LTk5NDMtMmRmNzQ0YzBmMDAx"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
       {
              "name": "UNIFISPORTS6",
              "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports6-Olympic.png",
              "uri": "http://1.9.62.158/PLTV/88888888/224/3221227795/3221227795.mpd",
             "drm_scheme": "widevine",
-            "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzI0OWM1NTAtOWY5Zi0zNGM5LTk5NDMtMmRmNzQ0YzBmMDAx"
+            "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
       {
              "name": "UNIFISPORTS7",
              "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports7-Olympic.png",
              "uri": "http://1.9.62.158/PLTV/88888888/224/3221227787/3221227787.mpd",
             "drm_scheme": "widevine",
-            "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzI0OWM1NTAtOWY5Zi0zNGM5LTk5NDMtMmRmNzQ0YzBmMDAx"
+            "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
       {
              "name": "UNIFISPORTS8",
              "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports8-Olympic.png",
              "uri": "http://1.9.62.158/PLTV/88888888/224/3221227798/3221227798.mpd",
             "drm_scheme": "widevine",
-            "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzI0OWM1NTAtOWY5Zi0zNGM5LTk5NDMtMmRmNzQ0YzBmMDAx"
+            "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
       {
              "name": "UNIFISPORTS9",
              "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports9-Olympic.png",
              "uri": "http://1.9.62.158/PLTV/88888888/224/3221227793/3221227793.mpd",
             "drm_scheme": "widevine",
-            "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzI0OWM1NTAtOWY5Zi0zNGM5LTk5NDMtMmRmNzQ0YzBmMDAx"
+            "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
       {
              "name": "UNIFISPORTS10",
              "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports10-Olympic.png",
              "uri": "http://1.9.62.158/PLTV/88888888/224/3221227830/3221227830.mpd",
             "drm_scheme": "widevine",
-            "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzI0OWM1NTAtOWY5Zi0zNGM5LTk5NDMtMmRmNzQ0YzBmMDAx"
+            "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
       {
              "name": "UNIFISPORTS11",
              "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports11-Olympic.png",
              "uri": "http://1.9.62.158/PLTV/88888888/224/3221227833/3221227833.mpd",
             "drm_scheme": "widevine",
-            "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzI0OWM1NTAtOWY5Zi0zNGM5LTk5NDMtMmRmNzQ0YzBmMDAx"
+            "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
       {
              "name": "UNIFISPORTS12",
              "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports12-Olympic.png",
              "uri": "http://1.9.62.158/PLTV/88888888/224/3221227799/3221227799.mpd",
             "drm_scheme": "widevine",
-            "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzI0OWM1NTAtOWY5Zi0zNGM5LTk5NDMtMmRmNzQ0YzBmMDAx"
+            "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
       {
              "name": "UNIFISPORTS13",
              "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports13-Olympic.png",
              "uri": "http://1.9.62.158/PLTV/88888888/224/3221227802/3221227802.mpd",
             "drm_scheme": "widevine",
-            "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzI0OWM1NTAtOWY5Zi0zNGM5LTk5NDMtMmRmNzQ0YzBmMDAx"
+            "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
       {
              "name": "UNIFISPORTS13",
              "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports13-Olympic.png",
              "uri": "http://1.9.62.158/PLTV/88888888/224/3221227775/3221227775.mpd",
             "drm_scheme": "widevine",
-            "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzI0OWM1NTAtOWY5Zi0zNGM5LTk5NDMtMmRmNzQ0YzBmMDAx"
+            "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
       {
              "name": "UNIFISPORTS13",
              "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unfi-Sports13-Olympic.png",
              "uri": "http://1.9.62.158/PLTV/88888888/224/3221227821/3221227821.mpd",
             "drm_scheme": "widevine",
-            "drm_license_url": "http://1.9.58.113:8063/?deviceId=YzI0OWM1NTAtOWY5Zi0zNGM5LTk5NDMtMmRmNzQ0YzBmMDAx"
+            "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
       {
         "name": " RTM Olimpik 1",
@@ -137,6 +137,6 @@
         "uri": "https://rtm-olympic05.secureswiftcontent.com/rtm/olympic05_manifest.m3u8",
         "referer": "https://tokyo2020.rtm.gov.my/"
 	  }
-	]
-  }
+      ]
+   }
 ]
