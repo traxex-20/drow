@@ -612,7 +612,7 @@
         "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?ImageUrl=%271375229.png",
         "uri": "https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZCSWR4LVMwOVZuaUdGbG41V096NkFyQWhydGh6bHJNenREUkoza2FFLUxIeFVRS1ZQQTRTSkxSa1FIS2VGSVVLRmd1M3h2Y0VvM3lNSUVETGJfOTRWcUhFem5BS1MtQ3JTT1pSY0Q2SUkxRzJ6V084R0JaUnBBSlg1MkkybDhtMHpEVmFxaEN5YUJkNFNUdnNsZmxBWUxKWWNTMEdjYTNNNzdnODRYSGNnY2pDZERPbENWSDhmR0l0VUNER2tIWjdncmxFaFpDTlc2NjIwQmxVUUdqVVhWYWltNk5SOHVkbnlkRU1HX3V5aS1ScjFRZXJLRExiNFJqZ29vaG1DTDQ4VnlDakpGUzQyVEZMNGNlMnZfUlB6ST0mY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MDY2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9zdXJpYV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkJJZHgtUzA5Vm5pR0ZsbjVXT3o2QXJBaHJ0aHpsck16dERSSjNrYUUtTEh4VVFLVlBBNFNKTFJrUUhLZUZJVUtGZ3UzeHZjRW8zeU1JRURMYl85NFZxSEV6bkFLUy1DclNPWlJjRDZJSTFHMnpXTzhHQlpScEFKWDUySTJsOG0wekRWYXFoQ3lhQmQ0U1R2c2xmbEFZTEpZY1MwR2NhM003N2c4NFhIY2djakNkRE9sQ1ZIOGZHSXRVQ0RHa0haN2dybEVoWkNOVzY2MjBCbFVRR2pVWFZhaW02TlI4dWRueWRFTUdfdXlpLVJyMVFlcktETGI0Umpnb29obUNMNDhWeUNqSkZTNDJURkw0Y2Uydl9SUHpJPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=gacwn9e%2bHsjaD%2b3Q0NfPVAkHr0I%3d"
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZCdmwxdWRMaWdTWUg0YU9yR1JPRVVrSzI4SkxaMC1KVEc0QVJYcnBvTW1OcnI0ZjNXUUxmZ3lrTUQxWlV2V01JbWttR3JzMk96U3REMUZwbUY1bU1iRkJQaGg1U21vZW1sVEllWmV0bFY0X0tYWW1qVlhhakRPaFV0VV9mM0VZU2hmbDhRQVRlWi10bDhWNHJVejN4RlM2WTBBdUNtQzR4eUR1QXFabEdydjlOTDNYaHNxZEFQTldPSWZOaTJDakowaGdJQXFOVFh3cGxLSzV2RzRKMUJlWUZMODRFb0MzWk9IUXBwNDVrckVwQmpyWnFPNTl0MFdicExwVzlKQVVyeGxXbXRKNmExbWFybWM4dFR6SVZMZ1hnU0thRFo3cWVmRGdXSTJDQWlGMGkyTFFuRFFncGVmZjlUcWFVLXo3Z2c9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQwNjYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3N1cmlhX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmQnZsMXVkTGlnU1lINGFPckdST0VVa0syOEpMWjAtSlRHNEFSWHJwb01tTnJyNGYzV1FMZmd5a01EMVpVdldNSW1rbUdyczJPelN0RDFGcG1GNW1NYkZCUGhoNVNtb2VtbFRJZVpldGxWNF9LWFltalZYYWpET2hVdFVfZjNFWVNoZmw4UUFUZVotdGw4VjRyVXozeEZTNlkwQXVDbUM0eHlEdUFxWmxHcnY5TkwzWGhzcWRBUE5XT0lmTmkyQ2pKMGhnSUFxTlRYd3BsS0s1dkc0SjFCZVlGTDg0RW9DM1pPSFFwcDQ1a3JFcEJqclpxTzU5dDBXYnBMcFc5SkFVcnhsV210SjZhMW1hcm1jOHRUeklWTGdYZ1NLYURaN3FlZkRnV0kyQ0FpRjBpMkxRbkRRZ3BlZmY5VHFhVS16N2dnPT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=n0tPqcIjUlvXVzR%2fe93YBzCu%2fWU%3d"
       },
       {
         "name": "Vasantham",
@@ -738,13 +738,13 @@
         "referer": "https://www.dailymotion.com/"
       },
 	  {
-        "name": "DRAMA SANGAT",
+        "name": "ALJAZEERA",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/aljazeera.png",
         "uri": "https://www.dailymotion.com/cdn/live/video/x6rsa3u.m3u8?sec=lN3hCF1a5cLObFJC3nGPLen-1T5Tbob1mso_K55hWH3ZihTy22xj-IdL04f4dHD089U75Ghu1mIVJrl1J9MZKg",
         "referer": "https://www.dailymotion.com/"
       },
 	  {
-        "name": "DRAMA SANGAT",
+        "name": "CNA",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/cna.png",
         "uri": "https://www.dailymotion.com/cdn/live/video/x7ptegr.m3u8?sec=5Yssf3hgw2z3vVONZRChN_nVkZmAT0tYz8CAkjz6i-g3BNUnNkDpZpFnIloIAxAP3TjEngyFIyDYT7TOpO4Qsw",
         "referer": "https://www.dailymotion.com/"
