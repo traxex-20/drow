@@ -12,14 +12,14 @@
       {
         "name": "101 TV1",
         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227471/3221227471.mpd",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
       {
         "name": "102 TV2",
         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227490/3221227490.mpd",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227815/3221227815.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
       },
@@ -421,7 +421,7 @@
       },
       {
         "name": "560 DA VINCI KIDS",
-        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/6/6d/Da_Vinci_Kids_logo.svg",
+        "logo_uri": "https://www.clipartkey.com/mpngs/m/328-3289408_da-vinci-kids.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227757/3221227757.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=NjEwNDEzMmQtODllZC0zZDFmLTkyNDgtYmViMWNkYzE2NDgz"
@@ -710,43 +710,43 @@
       {
         "name": "TV3",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/tv3.png",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8?sec=rDula8zIgjPdGJpc650XaEa4stKuRVtmgDMnGsJRO-4tbpW6wDkP6nh9fJCSGD2QG5Z3XskJY1opqSFAqA-Sjg",
+        "uri": "https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8?sec=rDula8zIgjPdGJpc650XaIO1TNpYeUF--yHd6I7pIpiqE2EXvvtuxKU7NnAdAaxOdG-0BhUNbEhwUYkDqZRbKg",
         "referer": "https://www.dailymotion.com/"
       },
       {
         "name": "TV9",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/tv9.png",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x6qqja6.m3u8?sec=ZwFQ_HzgvMTsAdEA5__luIOlK-0jMWu35b2h4sNJebivWY-T4VcsyZsleIrU4AYqLwEXN11t1Esvu1572ALeXA",
+        "uri": "https://www.dailymotion.com/cdn/live/video/x6qqja6.m3u8?sec=ZwFQ_HzgvMTsAdEA5__luGqqbGgjHbUzZ-nQ8qwFCSXrQexq1P6uqqfHtirbmnDiFs7qFxV3IFkbx-qAJwNnqA",
         "referer": "https://www.dailymotion.com/"
       },
 	  {
         "name": "NTV7",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/ntv7.png",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x6qp6ou.m3u8?sec=O92yQs7wUNG3lxJjphgbq0V1iLLLRC-S9VwbT3IAUcUbcC05IJxpNaZZmZ0tUPFVvmCHK_8Itg9Ixn1xQIVe5Q",
+        "uri": "https://www.dailymotion.com/cdn/live/video/x6qp6ou.m3u8?sec=O92yQs7wUNG3lxJjphgbqxQe17JkMUKIlEHomEu-ypMj4luH4o8o-kPydGBOAzcr23nYUlXuW0c0CpCp3p3IAw",
         "referer": "https://www.dailymotion.com/"
       },
 	  {
         "name": "TV8",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/tv8.png",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x6qud17.m3u8?sec=Bri35_Jw3Y9HNm0uYb4Ixv7-KVtEE7Bfjlp81jFgy9AUS3oQ2Pe_iTuhNtnHwvFn3Sbb3qtTsgQn70d2eOleuQ",
+        "uri": "https://www.dailymotion.com/cdn/live/video/x6qud17.m3u8?sec=Bri35_Jw3Y9HNm0uYb4Ixj1ziD9RgQHOTxWk__okY__qAyszF634_40lkXfRkybLeyRKY0S8UpKv47-0wqfAKg",
         "referer": "https://www.dailymotion.com/"
       },
 	  {
         "name": "DRAMA SANGAT",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTESR_oJz18FCNnYhHv8scXjWw_zyzq3oDzx7SAfbp-FE89EZxrmnBYcKRU8sqJE-iA",
+        "uri": "https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZOTDgrQRClnvW3jyT-h9g82c3-vd471dPLMZ8jFlEyx6JFzb06g0sBEv7Hrhf8uz8NEg",
         "referer": "https://www.dailymotion.com/"
       },
 	  {
         "name": "ALJAZEERA",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/aljazeera.png",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x6rsa3u.m3u8?sec=lN3hCF1a5cLObFJC3nGPLen-1T5Tbob1mso_K55hWH3ZihTy22xj-IdL04f4dHD089U75Ghu1mIVJrl1J9MZKg",
+        "uri": "https://www.dailymotion.com/cdn/live/video/x6rsa3u.m3u8?sec=lN3hCF1a5cLObFJC3nGPLQQ1OIwvq6t5gxZ-8Zd6LHDeu0fo-C-xZHhw5U5ZrZLC4LSeCIADJlQjLSP10xvdYQ",
         "referer": "https://www.dailymotion.com/"
       },
 	  {
         "name": "CNA",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/cna.png",
-        "uri": "https://www.dailymotion.com/cdn/live/video/x7ptegr.m3u8?sec=5Yssf3hgw2z3vVONZRChN_nVkZmAT0tYz8CAkjz6i-g3BNUnNkDpZpFnIloIAxAP3TjEngyFIyDYT7TOpO4Qsw",
+        "uri": "https://www.dailymotion.com/cdn/live/video/x7ptegr.m3u8?sec=5Yssf3hgw2z3vVONZRChN4Lpriqnytw1J70CEUyPoPl6B3gQ3hQ71NTTe-tjbj_ZRNmAARYz5nUCpcKbxplDwg",
         "referer": "https://www.dailymotion.com/"
       }
     ]
