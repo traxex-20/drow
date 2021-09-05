@@ -2,8 +2,8 @@
    "keys":[  
       {  
          "kty":"oct",
-         "k":"ZwmR3mR+ezBcP7VTQXYRMw==",
-         "kid":"d0eaNcGkziVpJcnX1qVlEA=="
+         "k":"ZwmR3mR+ezBcP7VTQXYRMw",
+         "kid":"d0eaNcGkziVpJcnX1qVlEA"
       }
    ],
    "type":"temporary"
